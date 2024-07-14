@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
 
-      <Router>
+      <Router basename="/portfolio">
         <ScrollToTop />
         <Navbar />
         <Routes>
