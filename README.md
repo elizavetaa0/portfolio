@@ -9,3 +9,6 @@ npm install
 npm start
 ```
 
+## Опубликованная старница
+
+[Ссылка на страницу](https://elizavetaa0.github.io/portfolio/)
